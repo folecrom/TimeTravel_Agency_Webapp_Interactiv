@@ -119,7 +119,7 @@ function App() {
           {destinations.map((destination, index) => (
             <div
               key={destination.id}
-              className="group relative bg-white/5 backdrop-blur-md rounded-3xl overflow-hidden border border-amber-400/20 hover:border-amber-400/60 transition-all duration-500 hover:transform hover:scale-105"
+              className="group relative bg-gradient-to-br from-gray-800/60 to-gray-900/60 backdrop-blur-lg rounded-3xl overflow-hidden border-2 border-amber-400/40 hover:border-amber-400/80 transition-all duration-500 hover:transform hover:scale-105 shadow-2xl"
               style={{ animationDelay: `${index * 150}ms` }}
             >
               {/* Image */}
