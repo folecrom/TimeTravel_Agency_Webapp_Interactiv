@@ -86,8 +86,8 @@ Si vous souhaitez tester le projet localement :
 
 ## 👥 L'Équipe (M1/M2 Digital & IA)
 
-* **Membre 1 :** [Mathis AUGEREAU] - [Rôle : ex. Dev]
-* **Membre 2 :** [Yassine ENNOUHI] - [Rôle : ex. Dev]
+* **Membre 1 :** [Mathis AUGEREAU] - [Rôle : Dev]
+* **Membre 2 :** [Yassine ENNOUHI] - [Rôle : Dev]
 
 ---
-*Projet réalisé dans le cadre du module Web Development & AI - [Année]*
+*Projet réalisé dans le cadre du module Web Development & AI - [2026]*
