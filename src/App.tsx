@@ -22,7 +22,7 @@ function App() {
       subtitle: "67 Million Years Ago",
       description: "Journey to a prehistoric world where mighty dinosaurs roam and nature reigns supreme",
       price: "€28,900",
-      image: "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
+      image: "https://images.pexels.com/photos/3714898/pexels-photo-3714898.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
       year: "67M BCE",
       duration: "4 Days"
     },
