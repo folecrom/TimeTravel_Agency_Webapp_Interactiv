@@ -8,7 +8,7 @@ Cette webapp interactive est le portail numérique de l'agence **TimeTravel Agen
 Le projet met l'accent sur une expérience utilisateur (UX) fluide, un design "Storytelling-first" et l'intégration de fonctionnalités assistées par l'Intelligence Artificielle.
 
 ## 🚀 Démo en ligne
-[Insérer ici le lien Vercel / Bolt / Netlify de votre projet]
+[[Lien Vercel](https://v0-time-travel-agency-landing.vercel.app/)]
 
 ---
 
@@ -53,9 +53,9 @@ Conformément aux directives du projet, voici les outils génératifs utilisés 
 
 | Catégorie | Outil Utilisé | Usage |
 | :--- | :--- | :--- |
-| **Code & Architecture** | [v0.dev / Bolt.new / Cursor] | Génération de la structure React et du CSS Tailwind. |
-| **Visuels** | [Midjourney / DALL-E / Runway] | Création des assets visuels des époques (Projet 1). |
-| **Contenu Textuel** | [ChatGPT / Gemini] | Rédaction des descriptions marketing et du System Prompt. |
+| **Code & Architecture** | [v0.dev] | Génération de la structure React et du CSS Tailwind. |
+| **Visuels** | [Gemini] | Création des assets visuels des époques (Projet 1). |
+| **Contenu Textuel** | [Gemini] | Rédaction des descriptions marketing et du System Prompt. |
 | **Logique Chatbot** | [Mistral AI / Simulation] | Moteur de réponse de l'assistant Chronos. |
 
 ---
