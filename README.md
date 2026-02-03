@@ -1,33 +1,93 @@
-# TimeTravel Agency — Webapp Interactive
+# ⏳ TimeTravel Agency — L'Expérience Web
 
-Webapp interactive pour une agence fictive de voyage temporel, développée avec des outils d’IA générative.
+> **Slogan :** "Le passé n'attend que vous. Réservez votre souvenir aujourd'hui."
 
-## 👥 Équipe
-- Nom Prénom
-- Nom Prénom
-- Nom Prénom
-- Nom Prénom
+## 📖 Description du Projet
+Cette webapp interactive est le portail numérique de l'agence **TimeTravel Agency**. Elle permet aux utilisateurs de découvrir des époques historiques immersives, d'obtenir des conseils via une IA dédiée, et de simuler la réservation d'un voyage temporel.
+
+Le projet met l'accent sur une expérience utilisateur (UX) fluide, un design "Storytelling-first" et l'intégration de fonctionnalités assistées par l'Intelligence Artificielle.
+
+## 🚀 Démo en ligne
+[Insérer ici le lien Vercel / Bolt / Netlify de votre projet]
+
+---
 
 ## 🛠️ Stack Technique
-- React
-- Tailwind CSS
-- Chatbot IA (Cal.ai / Chatbase / Mistral API)
-- Déploiement : Vercel
 
-## ✨ Fonctionnalités
-- Landing page immersive
-- Galerie de 3 destinations temporelles
-- Chatbot IA conversationnel
-- Animations et micro-interactions
-- Recommandation personnalisée (optionnel)
+### Frontend
+* **Framework :** React (Vite)
+* **Styling :** Tailwind CSS (Design system responsive & Dark mode)
+* **Iconographie :** Lucide React
+* **Animations :** CSS Transitions & Hover effects
 
-## 🤖 IA Utilisées
-- Génération de code : Bolt.new / v0.dev
-- Chatbot : Cal.ai / Chatbase / Mistral Small
-- Visuels : IA générative (Projet précédent)
+### Intelligence Artificielle (Features)
+* **Chatbot Widget :** Composant React personnalisé
+* **Logique IA :** [Choix : Simulation Front-end / API Mistral / API OpenAI]
+* **Prompt System :** Persona "Chronos" intégré pour le role-play
 
-## 🚀 Déploiement
-URL publique : https://votre-site.vercel.app
+---
 
-## 📄 Licence
-Projet pédagogique — Ynov Campus — Mastère Digital & IA
+## ✨ Fonctionnalités Clés
+
+### 1. Immersion Visuelle (Hero & Galerie)
+* Hero section avec vidéo/background immersif.
+* Galerie de destinations (Paris 1889, Crétacé, Florence 1504) sous forme de cartes interactives.
+* Badges dynamiques (Niveau de danger, Année).
+
+### 2. Assistant IA "Chronos" 🤖
+* Widget flottant accessible sur toute la navigation.
+* **Capacités :**
+    * Répond aux questions sur la sécurité et les prix.
+    * Suggère des destinations selon l'humeur.
+    * Garde le contexte "Roleplay" (ne sort pas de son personnage d'agent temporel).
+
+### 3. Architecture Responsive
+* Adaptation mobile-first (Menu burger, stack verticale des cartes).
+* Optimisation des images (Lazy loading).
+
+---
+
+## 🤖 Transparence sur les Outils IA utilisés
+
+Conformément aux directives du projet, voici les outils génératifs utilisés pour la production :
+
+| Catégorie | Outil Utilisé | Usage |
+| :--- | :--- | :--- |
+| **Code & Architecture** | [v0.dev / Bolt.new / Cursor] | Génération de la structure React et du CSS Tailwind. |
+| **Visuels** | [Midjourney / DALL-E / Runway] | Création des assets visuels des époques (Projet 1). |
+| **Contenu Textuel** | [ChatGPT / Gemini] | Rédaction des descriptions marketing et du System Prompt. |
+| **Logique Chatbot** | [Mistral AI / Simulation] | Moteur de réponse de l'assistant Chronos. |
+
+---
+
+## 📦 Installation & Lancement (Local)
+
+Si vous souhaitez tester le projet localement :
+
+1.  **Cloner le dépôt :**
+    ```bash
+    git clone [URL_DU_REPO]
+    ```
+
+2.  **Installer les dépendances :**
+    ```bash
+    cd time-travel-agency
+    npm install
+    ```
+
+3.  **Lancer le serveur de développement :**
+    ```bash
+    npm run dev
+    ```
+
+4.  Ouvrir `http://localhost:5173` dans votre navigateur.
+
+---
+
+## 👥 L'Équipe (M1/M2 Digital & IA)
+
+* **Membre 1 :** [Mathis AUGEREAU] - [Rôle : ex. Dev]
+* **Membre 2 :** [Yassine ENNOUHI] - [Rôle : ex. Dev]
+
+---
+*Projet réalisé dans le cadre du module Web Development & AI - [Année]*
